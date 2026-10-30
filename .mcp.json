@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "solhint": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "solhint-mcp@0.1.7"
+      ]
+    },
+    "forge-test": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "forge-test-mcp@0.1.0"
+      ]
+    }
+  }
+}

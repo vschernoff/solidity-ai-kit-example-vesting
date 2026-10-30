@@ -1,0 +1,7 @@
+[mcp_servers.solhint]
+command = "npx"
+args = [ "-y", "solhint-mcp@0.1.7" ]
+
+[mcp_servers.forge-test]
+command = "npx"
+args = [ "-y", "forge-test-mcp@0.1.0" ]
